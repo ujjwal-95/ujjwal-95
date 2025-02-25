@@ -63,4 +63,5 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-95&show_icons=true&locale=en&layout=compact" /></div>  
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal-95&layout=compact&theme=graywhite" alt="Top Languages" height="170"/> </div>
